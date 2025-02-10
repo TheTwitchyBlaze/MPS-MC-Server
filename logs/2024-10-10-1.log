@@ -1,0 +1,306 @@
+[00:00:02] [pool-26-thread-1/INFO]: [GraveStonesPlus] Detected day changed, processing...
+[00:00:02] [pool-26-thread-1/INFO]: [GraveStonesPlus] Time change event: DAY, Fake: false
+[00:00:02] [pool-26-thread-1/INFO]: [GraveStonesPlus] Finished processing day changes
+[02:21:32] [User Authenticator #41/INFO]: UUID of player Kiymara is 8d9d347d-4dd0-47f2-a940-3df7ea487822
+[02:21:32] [Server thread/INFO]: Kiymara joined the game
+[02:21:32] [Server thread/INFO]: Kiymara[/68.70.234.85:51192] logged in with entity id 299976 at ([Blaze_Realm_nether]68.50576211429502, 255.5, 124.51078293424938)
+[02:24:20] [Server thread/INFO]: Kiymara issued server command: /summon minecraft:iron_golem ~ ~1 ~ {invulnerable:1}
+[02:24:20] [Server thread/INFO]: [Kiymara: Summoned new Iron Golem]
+[02:24:44] [Server thread/INFO]: Kiymara issued server command: /gamemode creative
+[02:24:44] [Server thread/INFO]: [Kiymara: Set own game mode to Creative Mode]
+[02:25:38] [Server thread/INFO]: Kiymara issued server command: /kill @a
+[02:25:38] [Server thread/INFO]: [GraveStonesPlus] Failed to find air block, can't make grave
+[02:25:38] [Server thread/INFO]: Kiymara was killed
+[02:25:38] [Server thread/INFO]: [Kiymara: Killed Kiymara]
+[02:25:49] [Server thread/INFO]: Kiymara issued server command: /gamemode survival
+[02:25:49] [Server thread/INFO]: [Kiymara: Set own game mode to Survival Mode]
+[02:25:52] [Server thread/INFO]: Kiymara issued server command: /gamemode spectator
+[02:25:52] [Server thread/INFO]: [Kiymara: Set own game mode to Spectator Mode]
+[02:26:22] [Server thread/INFO]: Kiymara issued server command: /gamemode survival
+[02:26:22] [Server thread/INFO]: [Kiymara: Set own game mode to Survival Mode]
+[02:26:37] [Server thread/INFO]: Kiymara issued server command: /gamemode creative
+[02:26:37] [Server thread/INFO]: [Kiymara: Set own game mode to Creative Mode]
+[02:26:47] [Server thread/INFO]: Kiymara issued server command: /kill @e
+[02:26:47] [Server thread/INFO]: Villager Villager['Farmer'/7, uuid='9e89ccc7-0883-4936-a790-c8dd2a202a67', l='ServerLevel[Blaze_Realm]', x=-211.78, y=63.00, z=12.78, cpos=[-14, 0], tl=848329, v=true] died, message: 'Farmer was killed'
+[02:26:47] [Server thread/INFO]: Villager Villager['Farmer'/5625, uuid='f6ea6fc8-0976-473d-a2be-577c830a09c4', l='ServerLevel[Blaze_Realm]', x=-211.30, y=62.94, z=11.50, cpos=[-14, 0], tl=601262, v=true] died, message: 'Farmer was killed'
+[02:26:47] [Server thread/INFO]: Villager Villager['Villager'/5641, uuid='37c77fc7-8818-47e7-a28b-20bed6525862', l='ServerLevel[Blaze_Realm]', x=-226.48, y=65.00, z=-2.23, cpos=[-15, -1], tl=633782, v=true] died, message: 'Villager was killed'
+[02:26:47] [Server thread/INFO]: Villager Villager['Fletcher'/5634, uuid='a9a33b5a-3e94-4f21-a813-c3ce21497b94', l='ServerLevel[Blaze_Realm]', x=-215.73, y=63.00, z=9.24, cpos=[-14, 0], tl=579101, v=true] died, message: 'Fletcher was killed'
+[02:26:47] [Server thread/INFO]: [GraveStonesPlus] Failed to find air block, can't make grave
+[02:26:47] [Server thread/INFO]: Kiymara was killed
+[02:26:47] [Server thread/INFO]: [Kiymara: Killed 84 entities]
+[02:26:58] [Server thread/INFO]: Kiymara issued server command: /gamemode spectator
+[02:26:58] [Server thread/INFO]: [Kiymara: Set own game mode to Spectator Mode]
+[02:27:29] [Server thread/INFO]: Kiymara issued server command: /gamemode creative
+[02:27:29] [Server thread/INFO]: [Kiymara: Set own game mode to Creative Mode]
+[02:28:07] [Server thread/INFO]: Kiymara issued server command: /summon minecraft:iron_golem ~ ~1 ~ {invulnerable:1}
+[02:28:07] [Server thread/INFO]: [Kiymara: Summoned new Iron Golem]
+[02:29:15] [Server thread/INFO]: Kiymara issued server command: /summon minecraft:iron_golem ~ ~1 ~ {invulnerable:20}
+[02:29:15] [Server thread/INFO]: [Kiymara: Summoned new Iron Golem]
+[02:29:30] [Server thread/INFO]: Kiymara issued server command: /gamemode spectator
+[02:29:30] [Server thread/INFO]: [Kiymara: Set own game mode to Spectator Mode]
+[02:29:33] [Server thread/INFO]: Kiymara issued server command: /gamemode creative
+[02:29:33] [Server thread/INFO]: [Kiymara: Set own game mode to Creative Mode]
+[02:31:15] [Server thread/INFO]: Kiymara issued server command: /difficulty peaceful
+[02:31:15] [Server thread/INFO]: [Kiymara: The difficulty has been set to Peaceful]
+[02:32:00] [Server thread/INFO]: Kiymara issued server command: /difficulty normal
+[02:32:00] [Server thread/INFO]: [Kiymara: The difficulty has been set to Normal]
+[02:33:15] [Server thread/INFO]: Kiymara issued server command: /gamemode survival
+[02:33:15] [Server thread/INFO]: [Kiymara: Set own game mode to Survival Mode]
+[02:33:52] [Server thread/INFO]: Kiymara issued server command: /gamemode creative
+[02:33:52] [Server thread/INFO]: [Kiymara: Set own game mode to Creative Mode]
+[02:35:39] [Server thread/INFO]: Kiymara issued server command: /gamemode survival
+[02:35:39] [Server thread/INFO]: [Kiymara: Set own game mode to Survival Mode]
+[02:35:51] [Server thread/INFO]: Kiymara issued server command: /gamemode creative
+[02:35:51] [Server thread/INFO]: [Kiymara: Set own game mode to Creative Mode]
+[02:41:03] [Server thread/INFO]: Kiymara issued server command: /summon minecraft:iron_golem ~0 ~0 ~0 {Invulnerable:1}
+[02:41:03] [Server thread/INFO]: [Kiymara: Summoned new Iron Golem]
+[02:41:06] [Server thread/INFO]: Kiymara issued server command: /gamemode spectator
+[02:41:06] [Server thread/INFO]: [Kiymara: Set own game mode to Spectator Mode]
+[02:41:08] [Server thread/INFO]: Kiymara issued server command: /gamemode creative
+[02:41:08] [Server thread/INFO]: [Kiymara: Set own game mode to Creative Mode]
+[02:43:21] [Server thread/INFO]: Kiymara issued server command: /gamemode survival
+[02:43:21] [Server thread/INFO]: [Kiymara: Set own game mode to Survival Mode]
+[02:43:29] [Server thread/INFO]: Kiymara issued server command: /gamemode creative
+[02:43:29] [Server thread/INFO]: [Kiymara: Set own game mode to Creative Mode]
+[02:45:36] [Server thread/INFO]: Kiymara issued server command: /kill minecraft:iron_golem
+[02:45:45] [Server thread/INFO]: Kiymara issued server command: /kill iron_golem
+[02:48:23] [Server thread/INFO]: Kiymara issued server command: /effect give @e[type=minecraft:iron_golem] minecraft:resistance infinite 100 true
+[02:48:23] [Server thread/INFO]: [Kiymara: Applied effect Resistance to Iron Golem]
+[02:49:25] [Server thread/INFO]: Kiymara issued server command: /gamemode survival
+[02:49:25] [Server thread/INFO]: [Kiymara: Set own game mode to Survival Mode]
+[02:49:58] [Server thread/INFO]: Kiymara issued server command: /clear
+[02:49:58] [Server thread/INFO]: [Kiymara: Removed 671 item(s) from player Kiymara]
+[02:56:30] [Server thread/INFO]: Kiymara lost connection: Disconnected
+[02:56:30] [Server thread/INFO]: Kiymara left the game
+[18:52:43] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
+com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/publickeys due to Network is unreachable
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:108) ~[authlib-6.0.54.jar:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:57) ~[authlib-6.0.54.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:114) ~[authlib-6.0.54.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo$1.run(YggdrasilServicesKeyInfo.java:89) ~[authlib-6.0.54.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.net.SocketException: Network is unreachable
+	at java.base/sun.nio.ch.Net.connect0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.Net.connect(Net.java:589) ~[?:?]
+	at java.base/sun.nio.ch.Net.connect(Net.java:578) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:583) ~[?:?]
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327) ~[?:?]
+	at java.base/java.net.Socket.connect(Socket.java:751) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304) ~[?:?]
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:178) ~[?:?]
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:531) ~[?:?]
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:636) ~[?:?]
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264) ~[?:?]
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:377) ~[?:?]
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1282) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1123) ~[?:?]
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1675) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1599) ~[?:?]
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:531) ~[?:?]
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307) ~[?:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:84) ~[authlib-6.0.54.jar:?]
+	... 9 more
+[20:49:10] [User Authenticator #42/INFO]: UUID of player ModernMajor is a767ffda-c818-44ee-82cb-fff641b058be
+[20:49:11] [Server thread/INFO]: ModernMajor joined the game
+[20:49:11] [Server thread/INFO]: ModernMajor[/172.59.155.87:28302] logged in with entity id 306596 at ([Blaze_Realm]-472.040295472649, 63.0, -189.2204471723557)
+[21:15:45] [User Authenticator #43/INFO]: UUID of player Kiymara is 8d9d347d-4dd0-47f2-a940-3df7ea487822
+[21:15:46] [Server thread/INFO]: Kiymara joined the game
+[21:15:46] [Server thread/INFO]: Kiymara[/68.70.234.85:50320] logged in with entity id 311041 at ([Blaze_Realm_nether]70.30000001192093, 222.0, 124.62061908475513)
+[21:15:50] [Async Chat Thread - #127/INFO]: <ModernMajor> hi
+[21:15:51] [Async Chat Thread - #127/INFO]: <Kiymara> hey
+[21:16:01] [Async Chat Thread - #127/INFO]: <ModernMajor> I'm just afk mining cobblestone rn
+[21:16:07] [Async Chat Thread - #127/INFO]: <ModernMajor> You joined at the perfect time lol
+[21:16:17] [Async Chat Thread - #127/INFO]: <Kiymara> lol
+[21:19:21] [User Authenticator #44/INFO]: UUID of player BlueDragon2064 is 6969668a-a3e3-4dc8-916b-1ee990a99c5c
+[21:19:22] [Server thread/INFO]: BlueDragon2064 joined the game
+[21:19:22] [Server thread/INFO]: BlueDragon2064[/166.70.57.66:59239] logged in with entity id 312566 at ([Blaze_Realm]-473.784041894106, 69.0, 82.59218087973589)
+[21:19:26] [Async Chat Thread - #129/INFO]: <Kiymara> hello
+[21:19:27] [Async Chat Thread - #129/INFO]: <BlueDragon2064> Hiya ^-^
+[21:22:59] [Async Chat Thread - #131/INFO]: <ModernMajor> oh my gosh
+[21:23:04] [Async Chat Thread - #131/INFO]: <BlueDragon2064> Heh?
+[21:23:06] [Async Chat Thread - #131/INFO]: <Kiymara> ?
+[21:23:09] [Async Chat Thread - #131/INFO]: <ModernMajor> I walk out of my base
+[21:23:15] [Async Chat Thread - #131/INFO]: <ModernMajor> a creeoer walks right into the door
+[21:23:20] [Async Chat Thread - #131/INFO]: <BlueDragon2064> lollll
+[21:23:22] [Async Chat Thread - #131/INFO]: <ModernMajor> I am on 3 bars of hunger
+[21:23:27] [Async Chat Thread - #131/INFO]: <ModernMajor> it blows up the front of my house
+[21:23:33] [Async Chat Thread - #131/INFO]: <BlueDragon2064> noooo
+[21:23:35] [Async Chat Thread - #131/INFO]: <Kiymara> thats rough
+[21:23:48] [Async Chat Thread - #131/INFO]: <BlueDragon2064> thats why my mom wont play again rofl
+[21:25:32] [Async Chat Thread - #133/INFO]: <ModernMajor> who is bogbor
+[21:25:40] [Async Chat Thread - #133/INFO]: <Kiymara> elder anderson
+[21:25:44] [Async Chat Thread - #133/INFO]: <BlueDragon2064> Ah okay
+[21:27:21] [Server thread/INFO]: ModernMajor drowned while trying to escape Drowned
+[21:27:21] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=Blaze_Realm},x=-515.0,y=63.0,z=-228.0,pitch=0.0,yaw=0.0}
+[21:27:28] [Async Chat Thread - #135/INFO]: <BlueDragon2064> oof
+[21:27:28] [Async Chat Thread - #135/INFO]: <Kiymara> noooo
+[21:27:33] [Async Chat Thread - #135/INFO]: <ModernMajor> ugh
+[21:27:45] [Async Chat Thread - #135/INFO]: <BlueDragon2064> lol
+[21:28:06] [Async Chat Thread - #135/INFO]: <BlueDragon2064> My deaths are weird
+[21:28:19] [Async Chat Thread - #135/INFO]: <Kiymara> mine are consistant
+[21:28:23] [Async Chat Thread - #136/INFO]: <ModernMajor> where;d my stuff go
+[21:28:31] [Async Chat Thread - #136/INFO]: <BlueDragon2064> I fell off a ladder... thats why I have 1
+[21:28:32] [Async Chat Thread - #135/INFO]: <Kiymara> you should see your head
+[21:28:45] [Async Chat Thread - #135/INFO]: <Kiymara> just break it to get your stuff back
+[21:29:05] [Async Chat Thread - #135/INFO]: <ModernMajor> yeah
+[21:29:10] [Async Chat Thread - #135/INFO]: <ModernMajor> okay
+[21:29:27] [Server thread/INFO]: Named entity ArmorStand['ModernMajor died here!'/316518, uuid='f7a60fd1-1275-4a6e-8215-b4734e97d03a', l='ServerLevel[Blaze_Realm]', x=-514.50, y=64.50, z=-227.50, cpos=[-33, -15], tl=2522, v=true] died: ModernMajor died here! died
+[21:29:27] [Server thread/INFO]: Named entity ArmorStand['Died at Thu Oct 10 21:27:21 MDT 2024'/316519, uuid='9a2ba412-cea7-4495-8757-7c8f8461e43e', l='ServerLevel[Blaze_Realm]', x=-514.50, y=64.25, z=-227.50, cpos=[-33, -15], tl=2522, v=true] died: Died at Thu Oct 10 21:27:21 MDT 2024 died
+[21:29:27] [Server thread/INFO]: Named entity ArmorStand['Reason: ModernMajor drowned while trying to escape Drowned'/316520, uuid='75224d75-4029-45e4-8c0d-284fe30e3902', l='ServerLevel[Blaze_Realm]', x=-514.50, y=64.00, z=-227.50, cpos=[-33, -15], tl=2522, v=true] died: Reason: ModernMajor drowned while trying to escape Drowned died
+[21:30:14] [Async Chat Thread - #137/INFO]: <BlueDragon2064> So is there an actual herobrine seed? Or is it all just creepypasta?
+[21:30:25] [Async Chat Thread - #137/INFO]: <Kiymara> what
+[21:30:58] [Async Chat Thread - #137/INFO]: <ModernMajor> -463 195
+[21:31:01] [Async Chat Thread - #137/INFO]: <ModernMajor> -195
+[21:31:11] [Async Chat Thread - #137/INFO]: <ModernMajor> sorry those are my coords
+[21:31:20] [Async Chat Thread - #137/INFO]: <ModernMajor> too lazy to write them down
+[21:33:19] [Async Chat Thread - #139/INFO]: <BlueDragon2064> Creepypasta is horror legends... Herobrine is one of the said monsters to exist in minecraft but its all just legend. So I was wondering if there is an actual seed he spawns in... but i doubt it.
+[21:33:30] [Async Chat Thread - #139/INFO]: <Kiymara> nah
+[21:34:05] [Async Chat Thread - #139/INFO]: <BlueDragon2064> A Herobrine mod sounds so fun ngl
+[21:34:29] [Async Chat Thread - #139/INFO]: <BlueDragon2064> I like scary stuff a lot
+[21:34:29] [Async Chat Thread - #139/INFO]: <ModernMajor> I bet there's a plugin
+[21:35:45] [User Authenticator #45/INFO]: UUID of player Actincide16 is 34466693-58dc-43d2-b3fc-4e4082d4552f
+[21:35:47] [Server thread/INFO]: Actincide16 joined the game
+[21:35:47] [Server thread/INFO]: Actincide16[/124.179.166.166:57901] logged in with entity id 323109 at ([Blaze_Realm]-276.5, 65.0, 24.5)
+[21:35:53] [Async Chat Thread - #141/INFO]: <BlueDragon2064> Heya!
+[21:35:55] [Async Chat Thread - #141/INFO]: <Actincide16> hi
+[21:35:56] [Async Chat Thread - #141/INFO]: <Kiymara> who?
+[21:35:58] [Async Chat Thread - #141/INFO]: <BlueDragon2064> Who?
+[21:35:59] [Async Chat Thread - #141/INFO]: <ModernMajor> who are you
+[21:36:03] [Async Chat Thread - #141/INFO]: <Actincide16> good question
+[21:36:08] [Async Chat Thread - #141/INFO]: <BlueDragon2064> Sister Brown?
+[21:36:12] [Async Chat Thread - #141/INFO]: <Actincide16> what?
+[21:36:13] [Async Chat Thread - #141/INFO]: <ModernMajor> sister orange?
+[21:36:21] [Async Chat Thread - #141/INFO]: <BlueDragon2064> XD
+[21:36:23] [Async Chat Thread - #141/INFO]: <Actincide16> is this a private server?
+[21:36:31] [Async Chat Thread - #141/INFO]: <Kiymara> yea
+[21:36:38] [Async Chat Thread - #141/INFO]: <ModernMajor> are you an augustine?
+[21:36:46] [Async Chat Thread - #141/INFO]: <Actincide16> what
+[21:36:51] [Async Chat Thread - #141/INFO]: <BlueDragon2064> no thats blaze
+[21:36:52] [Async Chat Thread - #141/INFO]: <ModernMajor> I guess not
+[21:36:56] [Async Chat Thread - #141/INFO]: <BlueDragon2064> whats your name/
+[21:36:59] [Async Chat Thread - #141/INFO]: <Actincide16> im actincide16
+[21:37:09] [Async Chat Thread - #141/INFO]: <Actincide16> im cool
+[21:37:15] [Async Chat Thread - #141/INFO]: <BlueDragon2064> lol\
+[21:37:17] [Async Chat Thread - #141/INFO]: <ModernMajor> Are you a member of the church of jesus christ of latter day saints?
+[21:37:18] [Async Chat Thread - #141/INFO]: <Actincide16> why is this called MPS Missionaries ?
+[21:37:57] [Async Chat Thread - #141/INFO]: <Actincide16> dont ban me
+[21:38:01] [Server thread/INFO]: Actincide16 has made the advancement [Stone Age]
+[21:38:16] [Server thread/INFO]: Actincide16 has made the advancement [Getting an Upgrade]
+[21:38:33] [Async Chat Thread - #141/INFO]: <ModernMajor> where are you from
+[21:38:57] [Async Chat Thread - #141/INFO]: <Actincide16> Australia
+[21:39:03] [Async Chat Thread - #141/INFO]: <ModernMajor> nuh uh
+[21:39:04] [Async Chat Thread - #141/INFO]: <BlueDragon2064> lol
+[21:39:09] [Async Chat Thread - #141/INFO]: <Kiymara> t
+[21:39:10] [Async Chat Thread - #141/INFO]: <ModernMajor> that place doesn't exist
+[21:39:15] [Async Chat Thread - #141/INFO]: <BlueDragon2064> ^
+[21:39:17] [Async Chat Thread - #141/INFO]: <Actincide16> im upside down right now
+[21:39:21] [Async Chat Thread - #142/INFO]: <Kiymara> how did you find this server ip
+[21:39:27] [Async Chat Thread - #142/INFO]: <Actincide16> it was givven to me
+[21:39:35] [Async Chat Thread - #142/INFO]: <Actincide16> im terrible at grammer
+[21:39:42] [Async Chat Thread - #142/INFO]: <Kiymara> ginter?
+[21:39:50] [Async Chat Thread - #142/INFO]: <Actincide16> ?
+[21:40:20] [Async Chat Thread - #142/INFO]: <Actincide16> im just here to build a house
+[21:40:39] [Async Chat Thread - #142/INFO]: <Actincide16> oh vein minner
+[21:40:55] [Server thread/INFO]: Kiymara issued server command: /kick Actincide16
+[21:40:55] [Server thread/INFO]: Actincide16 lost connection: Kicked by an operator
+[21:40:55] [Server thread/INFO]: Actincide16 left the game
+[21:40:55] [Server thread/INFO]: [Kiymara: Kicked Actincide16: Kicked by an operator]
+[21:41:05] [Async Chat Thread - #142/INFO]: <Kiymara> i kicked him
+[21:41:15] [Async Chat Thread - #142/INFO]: <BlueDragon2064> good job
+[21:41:18] [Async Chat Thread - #142/INFO]: <BlueDragon2064> lol
+[21:41:22] [Async Chat Thread - #142/INFO]: <BlueDragon2064> that was random
+[21:41:35] [User Authenticator #46/INFO]: UUID of player Actincide16 is 34466693-58dc-43d2-b3fc-4e4082d4552f
+[21:41:36] [Async Chat Thread - #142/INFO]: <ModernMajor> we could have proselyted to him
+[21:41:36] [Server thread/INFO]: Actincide16 joined the game
+[21:41:36] [Server thread/INFO]: Actincide16[/124.179.166.166:57938] logged in with entity id 326183 at ([Blaze_Realm]-306.23545291450625, 72.0, -50.687504833966074)
+[21:41:40] [Async Chat Thread - #142/INFO]: <Actincide16> thats mean
+[21:41:54] [Async Chat Thread - #142/INFO]: <Kiymara> who gave you the ip
+[21:42:02] [Async Chat Thread - #142/INFO]: <Actincide16> someone on my discord
+[21:42:10] [Async Chat Thread - #142/INFO]: <Kiymara> who
+[21:42:11] [Async Chat Thread - #141/INFO]: <Actincide16> what is this?
+[21:42:20] [Async Chat Thread - #142/INFO]: <Actincide16> one of my friends
+[21:42:21] [Server thread/INFO]: Actincide16 has made the advancement [Acquire Hardware]
+[21:42:25] [Async Chat Thread - #142/INFO]: <BlueDragon2064> who?
+[21:42:29] [Async Chat Thread - #142/INFO]: <Kiymara> can you be specific
+[21:42:39] [Async Chat Thread - #142/INFO]: <Actincide16> i dont know there real name
+[21:42:46] [Async Chat Thread - #142/INFO]: <BlueDragon2064> whats their discord name?
+[21:42:47] [Async Chat Thread - #142/INFO]: <Kiymara> what is there tag
+[21:43:17] [Async Chat Thread - #142/INFO]: <Actincide16> hold on
+[21:43:24] [Async Chat Thread - #142/INFO]: <Actincide16> im checking
+[21:43:36] [Async Chat Thread - #142/INFO]: <Actincide16> im playing on a linux terminal so its hard to check
+[21:43:40] [Async Chat Thread - #142/INFO]: <ModernMajor> I thought you said you were australian
+[21:43:45] [Async Chat Thread - #142/INFO]: <Actincide16> i am
+[21:44:41] [Async Chat Thread - #142/INFO]: <Actincide16> this is a american server
+[21:45:06] [Server thread/INFO]: Kiymara issued server command: /kick Actincide16
+[21:45:06] [Server thread/INFO]: Actincide16 lost connection: Kicked by an operator
+[21:45:06] [Server thread/INFO]: Actincide16 left the game
+[21:45:06] [Server thread/INFO]: [Kiymara: Kicked Actincide16: Kicked by an operator]
+[21:45:19] [Async Chat Thread - #142/INFO]: <ModernMajor> I know there's ways to access random ips
+[21:45:34] [Async Chat Thread - #142/INFO]: <ModernMajor> maybe he needs to whitelist it
+[21:45:38] [Async Chat Thread - #142/INFO]: <Kiymara> if he joins again i will ban him
+[21:45:38] [Async Chat Thread - #142/INFO]: <BlueDragon2064> Maybe Augustine can change the server IP
+[21:46:06] [Async Chat Thread - #142/INFO]: <Kiymara> yea he said he will be home later so he can probably check it out
+[21:46:27] [Async Chat Thread - #142/INFO]: <ModernMajor> I've had random people join my private server too
+[21:46:30] [Async Chat Thread - #142/INFO]: <ModernMajor> one I used to have
+[21:46:34] [Async Chat Thread - #142/INFO]: <BlueDragon2064> Lol
+[21:46:36] [Async Chat Thread - #142/INFO]: <Kiymara> weird
+[21:46:48] [Async Chat Thread - #142/INFO]: <ModernMajor> even if the IP isn't listed, there's ways to randomly join random ips I think
+[21:46:50] [Async Chat Thread - #142/INFO]: <BlueDragon2064> I find anyone accessing a private server a little creepy tbh
+[21:47:04] [Async Chat Thread - #142/INFO]: <Kiymara> augestine said he has no idea who that it
+[21:47:08] [Async Chat Thread - #142/INFO]: <Kiymara> is*
+[21:47:15] [Async Chat Thread - #142/INFO]: <BlueDragon2064> lol well I didn't invite him thats for sure
+[21:47:38] [Async Chat Thread - #142/INFO]: <BlueDragon2064> Maybe you should just ban him
+[21:47:45] [Async Chat Thread - #142/INFO]: <Kiymara> yea
+[21:47:49] [Async Chat Thread - #142/INFO]: <BlueDragon2064> Because he'll come back when we aren't around
+[21:48:00] [Server thread/INFO]: Kiymara issued server command: /ban actincide16
+[21:48:00] [Server thread/INFO]: [Kiymara: Banned Actincide16: Banned by an operator.]
+[21:48:05] [Async Chat Thread - #142/INFO]: <ModernMajor> make the ban message say "appeal your ban at churchofjesuschrist.org"
+[21:48:08] [Paper Common Worker #3/ERROR]: Detected setBlock in a far chunk [3, 170], pos: BlockPos{x=48, y=-49, z=2722}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[21:48:12] [Async Chat Thread - #142/INFO]: <BlueDragon2064> XD
+[21:48:58] [Async Chat Thread - #142/INFO]: <Kiymara> that was a fun 10 minutes
+[21:49:04] [Async Chat Thread - #142/INFO]: <BlueDragon2064> Yes ahahaha
+[21:50:44] [Async Chat Thread - #143/INFO]: <BlueDragon2064> plot twist... hes a hacker with a goal to cause some trouble
+[21:51:04] [Async Chat Thread - #143/INFO]: <ModernMajor> afk one second
+[21:51:08] [Async Chat Thread - #143/INFO]: <Kiymara> or he is speed running a ban
+[21:51:15] [Async Chat Thread - #143/INFO]: <BlueDragon2064> okie dokie lol
+[21:51:20] [Async Chat Thread - #143/INFO]: <ModernMajor> or he is elder Bruun
+[21:51:26] [Async Chat Thread - #143/INFO]: <Kiymara> hahahaha
+[21:51:27] [Async Chat Thread - #143/INFO]: <BlueDragon2064> Ahahahaahaha
+[21:52:15] [Async Chat Thread - #143/INFO]: <BlueDragon2064> I'm excited for "The Creaking" to come out
+[21:52:21] [Async Chat Thread - #143/INFO]: <BlueDragon2064> and the new wood
+[21:52:49] [Async Chat Thread - #143/INFO]: <BlueDragon2064> They should give dolphins saddles!!!
+[21:54:15] [Async Chat Thread - #145/INFO]: <ModernMajor> Mojang for some weird reason is afraid to add features that would resemble animal cruelty in the real world
+[21:54:24] [Async Chat Thread - #145/INFO]: <Kiymara> yea
+[21:54:26] [Async Chat Thread - #145/INFO]: <BlueDragon2064> lol grrrrrrrrr
+[21:54:27] [Async Chat Thread - #145/INFO]: <ModernMajor> like they didn't add fireflies
+[21:54:34] [Async Chat Thread - #145/INFO]: <BlueDragon2064> but fireflies!
+[21:55:18] [Server thread/INFO]: Kiymara has made the advancement [War Pigs]
+[21:55:19] [Async Chat Thread - #145/INFO]: <BlueDragon2064> What if they added lions to the savannah?
+[21:55:27] [Async Chat Thread - #145/INFO]: <ModernMajor> ayooo
+[21:55:44] [Async Chat Thread - #145/INFO]: <Kiymara> or an end update
+[21:55:52] [Server thread/INFO]: ModernMajor has completed the challenge [Return to Sender]
+[21:55:59] [Async Chat Thread - #145/INFO]: <ModernMajor> I'm that pro
+[21:56:07] [Async Chat Thread - #145/INFO]: <BlueDragon2064> Lol the end update is long overdue
+[21:56:08] [Server thread/INFO]: Kiymara has made the advancement [Hidden in the Depths]
+[22:05:40] [Server thread/INFO]: Kiymara lost connection: Disconnected
+[22:05:40] [Server thread/INFO]: Kiymara left the game
+[22:05:54] [Async Chat Thread - #147/INFO]: <ModernMajor> boring
+[22:06:12] [Async Chat Thread - #147/INFO]: <ModernMajor> actually I should probably hop off too
+[22:06:19] [Async Chat Thread - #147/INFO]: <BlueDragon2064> coolio! See you later
+[22:06:25] [Async Chat Thread - #147/INFO]: <ModernMajor> you too!
+[22:06:27] [Server thread/INFO]: ModernMajor lost connection: Disconnected
+[22:06:27] [Server thread/INFO]: ModernMajor left the game
+[22:24:36] [Server thread/INFO]: BlueDragon2064 lost connection: Disconnected
+[22:24:36] [Server thread/INFO]: BlueDragon2064 left the game
+[23:58:15] [User Authenticator #47/INFO]: UUID of player Actincide16 is 34466693-58dc-43d2-b3fc-4e4082d4552f
+[23:58:15] [Server thread/INFO]: Disconnecting Actincide16 (/124.179.166.166:58476): You are banned from this server.
+Reason: Banned by an operator.
+[23:58:15] [Server thread/INFO]: Actincide16 (/124.179.166.166:58476) lost connection: You are banned from this server.
+Reason: Banned by an operator.

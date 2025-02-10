@@ -1,0 +1,289 @@
+graves:
+- ==: com.bencodez.gravestonesplus.graves.GravesConfig
+  DestroyedTime: 0
+  Destroyed: false
+  PlayerName: BlazecoolMC
+  X: 72
+  Y: 218
+  Time: 1729302829530
+  Z: 120
+  Items:
+    -5:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: AIR
+      amount: 0
+    8:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: GLASS_BOTTLE
+  UUID: fd9c2b64-ab73-43eb-83e1-3f5afc8045bf
+  World: 849dcd3a-a995-4c19-b9c1-6bcf5f3ad3e5
+  EXP: 0
+  DeathMessage: BlazecoolMC was slain by Kiymara
+- ==: com.bencodez.gravestonesplus.graves.GravesConfig
+  DestroyedTime: 0
+  Destroyed: false
+  PlayerName: BlazecoolMC
+  X: -1567
+  Y: 69
+  Time: 1736131452480
+  Z: -485
+  Items:
+    0:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: DIAMOND_SWORD
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          minecraft:sharpness: 3
+          minecraft:unbreaking: 3
+        Damage: 601
+    -1:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: IRON_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        Damage: 64
+    1:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: NETHERITE_AXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          minecraft:mending: 1
+          minecraft:silk_touch: 1
+        repair-cost: 1
+        Damage: 776
+    -2:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: IRON_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        Damage: 125
+    2:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: IRON_PICKAXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        Damage: 188
+    -3:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: IRON_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        Damage: 211
+    3:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: NETHERITE_PICKAXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          minecraft:fortune: 2
+        Damage: 1460
+    4:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: DIAMOND_SHOVEL
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          minecraft:efficiency: 1
+        repair-cost: 1
+        Damage: 420
+    -5:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: SHIELD
+      meta:
+        ==: ItemMeta
+        meta-type: SHIELD
+        Damage: 102
+    5:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: BAKED_POTATO
+      amount: 23
+    6:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: ROTTEN_FLESH
+      amount: 4
+    7:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: BUCKET
+    8:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: SPRUCE_FENCE
+      amount: 10
+    9:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: ARROW
+      amount: 61
+    10:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: ARROW
+      amount: 64
+    11:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: NETHERRACK
+      amount: 64
+    12:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: DIAMOND
+      amount: 33
+    13:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: DIAMOND
+      amount: 64
+    14:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: GOLDEN_APPLE
+    15:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: COBBLESTONE
+      amount: 52
+    16:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: CRAFTING_TABLE
+    17:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: NAME_TAG
+      amount: 3
+    18:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: IRON_SHOVEL
+    19:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: MAGMA_BLOCK
+    20:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: COAL
+      amount: 39
+    21:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: STICK
+    22:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: IRON_INGOT
+      amount: 61
+    23:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: BAKED_POTATO
+      amount: 59
+    24:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: ENDER_PEARL
+      amount: 16
+    25:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: BAKED_POTATO
+      amount: 64
+    26:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: SMOOTH_BASALT
+      amount: 11
+    27:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: CROSSBOW
+      meta:
+        ==: ItemMeta
+        meta-type: CROSSBOW
+        enchants:
+          minecraft:piercing: 2
+        charged-projectiles:
+        - ==: org.bukkit.inventory.ItemStack
+          v: 4082
+          type: ARROW
+    28:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: IRON_PICKAXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        Damage: 169
+    29:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: FLINT_AND_STEEL
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        Damage: 16
+    30:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: BOW
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          minecraft:power: 2
+        repair-cost: 1
+        Damage: 5
+    31:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: IRON_PICKAXE
+    32:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: IRON_SHOVEL
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        Damage: 4
+    33:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: MUSIC_DISC_13
+    34:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: SADDLE
+    35:
+      ==: org.bukkit.inventory.ItemStack
+      v: 4082
+      type: ENDER_PEARL
+  UUID: fd9c2b64-ab73-43eb-83e1-3f5afc8045bf
+  World: abebcc9b-644e-4ccf-ba74-d83e033bdc2d
+  EXP: 56
+  DeathMessage: BlazecoolMC was slain by Zombie
+brokengraves: []
